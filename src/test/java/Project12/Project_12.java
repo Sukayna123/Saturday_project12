@@ -89,6 +89,8 @@ public class Project_12 extends UtilityClass{
 
             locationItemNames.add(element.getText());
 
+
+
         }
 
         System.out.println("Location Icon Names: " + locationItemNames);
